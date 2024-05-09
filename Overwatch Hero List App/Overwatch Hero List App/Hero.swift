@@ -9,15 +9,14 @@ import Foundation
 
 // This is getting information from different data types and storing them
 
+//turning json into objects 
 struct Hero: Decodable  {
     
-    var tag: String?
-    var health: Int?
-    var armour: Int?
-    var shield: Int?
-    var real_name: String?
-    var age: Int?
-    var affiliation: String?
-    var base_of_operations:String?
-    var difficulty: Int?
+    var key: String
+    var name: String
+    var portrait: String
+    var role: String
 }
+
+
+

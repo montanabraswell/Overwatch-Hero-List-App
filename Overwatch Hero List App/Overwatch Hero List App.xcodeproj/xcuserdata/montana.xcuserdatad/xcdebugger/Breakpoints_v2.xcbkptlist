@@ -7,32 +7,64 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BDA2D291-F8CB-413A-880C-DD0EB11964B3"
-            shouldBeEnabled = "Yes"
+            uuid = "F1A5B829-8BF9-4C74-AFD8-6A943A43C83A"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Overwatch Hero List App/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "19"
-            endingLineNumber = "19"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F1A5B829-8BF9-4C74-AFD8-6A943A43C83A - e9c948a70c342791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Overwatch_Hero_List_App.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Overwatch_Hero_List_App.ViewController"
+                  moduleName = "Overwatch Hero List App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/montana/Documents/Overwatch-Hero-List-App/Overwatch%20Hero%20List%20App/Overwatch%20Hero%20List%20App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F1A5B829-8BF9-4C74-AFD8-6A943A43C83A - 75a01b1bfefcd32e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Overwatch_Hero_List_App.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Overwatch_Hero_List_App.ViewController&gt;"
+                  moduleName = "Overwatch Hero List App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/montana/Documents/Overwatch-Hero-List-App/Overwatch%20Hero%20List%20App/Overwatch%20Hero%20List%20App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BCC0E87D-A680-40BC-852B-A713CFD405BA"
-            shouldBeEnabled = "Yes"
+            uuid = "B32D13B6-77C8-4B5A-A7DB-ABCF0B07934D"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Overwatch Hero List App/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "HeroListRetrieved(_:)"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "tableView(_:didSelectRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
