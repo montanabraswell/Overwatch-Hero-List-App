@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     
     var model = HeroService()
     var heroesToDisplay = [Hero]()
-  
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -31,16 +31,16 @@ class ViewController: UIViewController {
         
     }
     
+    
+    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         
         let row = sender as! Int
         let hero = heroesToDisplay[row]
-        let detailViewController = segue.destination as! DetailViewController
+        let detailedVC = segue.destination as! DetailViewController
         
-        detailViewController.hero = hero
+        detailedVC.hero = hero
         
-        
-    
     }
 }
 

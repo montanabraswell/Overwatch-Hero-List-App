@@ -123,6 +123,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="yQ9-6v-qNa"/>
                     <connections>
+                        <outlet property="imageView" destination="tc8-r4-5QR" id="gyc-sz-QVf"/>
                         <outlet property="nameLabel" destination="l0D-8R-uyf" id="jef-f1-mJY"/>
                         <outlet property="roleLabel" destination="vCO-0l-tzh" id="mQL-7u-Kt8"/>
                     </connections>
